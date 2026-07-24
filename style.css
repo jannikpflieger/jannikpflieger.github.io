@@ -293,6 +293,13 @@ nav .container {
     margin-bottom: 0.5rem;
 }
 
+.talk-authors {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+}
+
 .talk-description {
     color: #555;
     line-height: 1.6;
